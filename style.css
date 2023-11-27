@@ -1,0 +1,54 @@
+.topnav {
+    background-color:#dc143c;
+    padding:15px;
+    word-spacing: 5px;
+    
+}
+.topnav a{
+    padding: 10px;
+    color: black;
+background-color: grey;
+border-radius: 5px;
+font-family: ;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+
+}
+
+h2{
+    text-align: center;
+    font-weight: italic;
+}
+
+h3{}
+body{
+    font-size: 20px;
+    text-align: center;
+}
+h4{
+    text-align:;
+}
+h5{
+
+}
+
+  .footer{
+    background-color:black;
+    padding: 15px;
+    
+  }
+
+  .p2{
+   color: white;
+    text-align: right;
+  }
+  .p4{
+    color: white;
+  }
+  .p5{
+    color: white;
+
+  }
